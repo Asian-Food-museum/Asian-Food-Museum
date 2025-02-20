@@ -165,7 +165,7 @@ h2 {
 
 .layout {
     width: 35%;
-    min-height: 100vh;
+    min-height: auto;
 }
 
 .geo-map {
@@ -279,10 +279,14 @@ h2 {
         max-width: 30%;
         /* Ensure they don't exceed this width */
     }
-    .narrative-btn,
+    .nar-btn button {
+        font-size: 14px;
+        text-align: center;
+        width: 100%;
+    }
     .subcategory-btn {
         width: 100%;
-        font-size: 16px;
+        font-size: 12px;
         text-align: center;
     }
     .map-info {
@@ -320,5 +324,11 @@ h2 {
     }
     .sub-category .item-list a:hover {
         font-size: 18px;
+    }
+}
+
+@media (max-width: 600px) {
+    .main-content h1 {
+        font-size: 24px;
     }
 }
