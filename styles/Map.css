@@ -82,7 +82,7 @@ h2 {
     width: 100%;
     justify-content: center;
     /* make the items in a line according to the text that they have */
-    align-items: center;
+    align-items: baseline;
 }
 
 .narrative-buttons .nar-btn {
@@ -92,9 +92,10 @@ h2 {
     /* Include padding and border in width calculation */
 }
 
-.narrative-btn {
+.nar-btn button {
     width: 100%;
     font-size: 20px;
+    position: relative;
 }
 
 .subcategory-btn {
@@ -304,20 +305,22 @@ h2 {
     .main-content h1 {
         font-size: 28px;
     }
-    .narrative-buttons .nar-btn {
-        flex: 1 1 50%;
-        /* Flex-grow, flex-shrink, flex-basis */
-        max-width: 45%;
-    }
     .narrative-btn {
         width: 100%;
-        padding: 12px 0;
     }
     .sub-category .item-list li {
         font-size: 16px;
     }
     .sub-category .item-list a:hover {
         font-size: 18px;
+    }
+}
+
+@media (max-width: 760px) {
+    .narrative-buttons .nar-btn {
+        flex: 1 1 50%;
+        /* Flex-grow, flex-shrink, flex-basis */
+        max-width: 45%;
     }
 }
 
