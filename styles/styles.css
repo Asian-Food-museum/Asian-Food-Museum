@@ -781,6 +781,9 @@ footer {
     .map-container {
         width: 100%;
     }
+    .narrative-btn{
+        margin-top: 16px;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -824,6 +827,9 @@ footer {
     .map-btn {
         width: 80%;
     }
+    .narrative-btn{
+        margin-top: 16px;
+    }
 }
 
 
@@ -834,6 +840,9 @@ footer {
         flex-direction: column;
         padding: 15px;
         gap: 20px;
+    }
+    .narrative-btn{
+        margin-top: 16px;
     }
 }
 
