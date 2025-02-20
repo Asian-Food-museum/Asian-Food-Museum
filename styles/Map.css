@@ -82,12 +82,11 @@ h2 {
     width: 100%;
     justify-content: center;
     /* make the items in a line according to the text that they have */
-    align-items: baseline;
+    align-items: center;
 }
 
 .narrative-buttons .nar-btn {
     flex: 1;
-    /* Ensure responsiveness with flex-grow, flex-shrink, and flex-basis */
     max-width: 16.6%;
     box-sizing: border-box;
     /* Include padding and border in width calculation */
@@ -268,19 +267,16 @@ h2 {
         font-size: 48px;
     }
     .narrative-buttons {
-        flex-wrap: wrap;
-        justify-content: space-between;
-        align-items: stretch;
+        align-items: center;
     }
     .narrative-buttons .nar-btn {
         flex: 1 1 30%;
         /* Flex-grow, flex-shrink, flex-basis */
-        margin-bottom: 20px;
-        max-width: 30%;
+        max-width: 33.3%;
         /* Ensure they don't exceed this width */
     }
     .nar-btn button {
-        font-size: 14px;
+        font-size: 16px;
         text-align: center;
         width: 100%;
     }
@@ -311,13 +307,11 @@ h2 {
     .narrative-buttons .nar-btn {
         flex: 1 1 50%;
         /* Flex-grow, flex-shrink, flex-basis */
-        margin-bottom: 20px;
         max-width: 45%;
     }
     .narrative-btn {
         width: 100%;
         padding: 12px 0;
-        font-size: 16px;
     }
     .sub-category .item-list li {
         font-size: 16px;
@@ -330,5 +324,10 @@ h2 {
 @media (max-width: 600px) {
     .main-content h1 {
         font-size: 24px;
+    }
+    .narrative-buttons .nar-btn {
+        flex: 1 1 100%;
+        /* Flex-grow, flex-shrink, flex-basis */
+        max-width: 70%;
     }
 }
