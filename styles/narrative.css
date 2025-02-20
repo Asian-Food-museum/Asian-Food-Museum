@@ -349,8 +349,8 @@ a {
         font-size: 18px;
     }
     .nar-option {
-        flex: 1 1 calc(50% - 16px);
-        max-width: 40%;
+        flex: 1 1 calc(50% - 8px);
+        max-width: 50%;
     }
 }
 
@@ -358,10 +358,6 @@ a {
     .general-header {
         font-size: 24px;
         text-align: center;
-    }
-    .nar-option {
-        flex: 1 1 45%;
-        max-width: 45%;
     }
     .nar-cards {
         width: 85%;
