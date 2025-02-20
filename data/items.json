@@ -2,7 +2,7 @@
     "items": [{
 
             "itemName": "Hot Pot (火锅)",
-            "image": "../images/items/item-6.webp",
+            "image": "images/items/item-6.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Ancient (9th Centurry)",
@@ -17,7 +17,7 @@
         {
 
             "itemName": "Kibbeh (كبة)",
-            "image": "../images/items/item-19.webp",
+            "image": "images/items/item-19.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Ancient (10th Centurry)",
@@ -32,7 +32,7 @@
         {
 
             "itemName": "Filo Pastry (كنافة)",
-            "image": "../images/items/item-20.webp",
+            "image": "images/items/item-20.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Ancient (10th Centurry)",
@@ -46,7 +46,7 @@
         },
         {
             "itemName": "Noodle Soup (آش رشته)",
-            "image": "../images/items/item-4.webp",
+            "image": "images/items/item-4.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Ancient (10th Centurry)",
@@ -60,7 +60,7 @@
         },
         {
             "itemName": "Herb Stew (قرمه سبزی)",
-            "image": "../images/items/item-1.webp",
+            "image": "images/items/item-1.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Ancient (10th Centurry)",
@@ -74,7 +74,7 @@
         },
         {
             "itemName": "Sour Soup with Beef Slices (酸汤肥牛)",
-            "image": "../images/items/item-7.webp",
+            "image": "images/items/item-7.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Ancient (10th Centurry)",
@@ -88,7 +88,7 @@
         },
         {
             "itemName": "Hummus (حمص)",
-            "image": "../images/items/item-17.webp",
+            "image": "images/items/item-17.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Medieval(13th century)",
@@ -102,7 +102,7 @@
         },
         {
             "itemName": "Peking Duck (北京烤鸭)",
-            "image": "../images/items/item-8.webp",
+            "image": "images/items/item-8.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Medieval(14th century)",
@@ -116,7 +116,7 @@
         },
         {
             "itemName": "Barberry and Saffron Rice Cake with Chicken (تهچین مرغ)",
-            "image": "../images/items/item-3.webp",
+            "image": "images/items/item-3.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Medieval(16th century)",
@@ -130,7 +130,7 @@
         },
         {
             "itemName": "Saffron Ice cream (بستنی سنتی)",
-            "image": "../images/items/item-2.webp",
+            "image": "images/items/item-2.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Medieval(16th century)",
@@ -144,7 +144,7 @@
         },
         {
             "itemName": "Deep-fried Lentil Fritters (دہی بھلے چاٹ)",
-            "image": "../images/items/item-14.webp",
+            "image": "images/items/item-14.webp",
             "info": {
                 "Region": "South Asia",
                 "Date": "Medieval(16th century)",
@@ -158,7 +158,7 @@
         },
         {
             "itemName": "Chicken Pilaf (چکن بریانی)",
-            "image": "../images/items/item-16.webp",
+            "image": "images/items/item-16.webp",
             "info": {
                 "Region": "South Asia",
                 "Date": "Medieval(16th century)",
@@ -172,7 +172,7 @@
         },
         {
             "itemName": "Mutton in Clay Pot (مٹن کُنا)",
-            "image": "../images/items/item-13.webp",
+            "image": "images/items/item-13.webp",
             "info": {
                 "Region": "South Asia",
                 "Date": "Medieval(16th century)",
@@ -186,7 +186,7 @@
         },
         {
             "itemName": "Semolina Halwa (سوجی کا حلوہ)",
-            "image": "../images/items/item-15.webp",
+            "image": "images/items/item-15.webp",
             "info": {
                 "Region": "South Asia",
                 "Date": "Medieval(16th century)",
@@ -200,7 +200,7 @@
         },
         {
             "itemName": "Tempura (天婦羅)",
-            "image": "../images/items/item-12.webp",
+            "image": "images/items/item-12.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Medieval(16th century)",
@@ -214,7 +214,7 @@
         },
         {
             "itemName": "Sukiyaki (すき焼き)",
-            "image": "../images/items/item-10.webp",
+            "image": "images/items/item-10.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Modern(19th century)",
@@ -228,7 +228,7 @@
         },
         {
             "itemName": "Pork Bone Ramen (豚骨ラーメン)",
-            "image": "../images/items/item-9.webp",
+            "image": "images/items/item-9.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Modern(20th century)",
@@ -242,7 +242,7 @@
         },
         {
             "itemName": "Rotation Sushi (回転寿司)",
-            "image": "../images/items/item-11.webp",
+            "image": "images/items/item-11.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Modern(20th century)",
@@ -256,7 +256,7 @@
         },
         {
             "itemName": "Meat wrap (شاورما)",
-            "image": "../images/items/item-18.webp",
+            "image": "images/items/item-18.webp",
             "info": {
                 "Region": "West Asia",
                 "Date": "Modern(20th century)",
@@ -270,7 +270,7 @@
         },
         {
             "itemName": "Coca-Cola Chicken Wings (可乐鸡翅)",
-            "image": "../images/items/item-5.webp",
+            "image": "images/items/item-5.webp",
             "info": {
                 "Region": "East Asia",
                 "Date": "Modern(20th century)",
