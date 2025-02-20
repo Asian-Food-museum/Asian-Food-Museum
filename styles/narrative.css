@@ -350,7 +350,7 @@ a {
     }
     .nar-option {
         flex: 1 1 calc(50% - 8px);
-        max-width: 50%;
+        max-width: 70%;
     }
 }
 
@@ -360,7 +360,7 @@ a {
         text-align: center;
     }
     .nar-cards {
-        width: 85%;
+        width: 80%;
         flex-direction: column;
     }
     .nar-card {
