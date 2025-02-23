@@ -6,7 +6,7 @@
     --dark-red: #281102;
     --light: #696969;
     --lightest: #EFEFEF;
-    --green: #9c9b84;
+    --green: rgb(156, 155, 132);
     --brown: #a6997c;
 }
 
@@ -99,6 +99,23 @@ p {
     margin: 16px;
     justify-items: center;
     align-items: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 2px solid var(--dark);
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(156, 155, 132, 0.3);
 }
 
 @media (max-width: 970px) {
