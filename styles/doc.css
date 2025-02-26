@@ -10,9 +10,14 @@
     --brown: #a6997c;
 }
 
+@font-face {
+    font-family: myFont;
+    src: url();
+}
+
 * {
     box-sizing: border-box;
-    font-family: 'Times New Roman';
+    font-family: 'lora', serif;
     text-align: justify;
 }
 
