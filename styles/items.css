@@ -324,3 +324,26 @@ s .hidden {
         margin-top: 3rem;
     }
 }
+
+@media (max-width: 480px) {
+    .previous-btn,
+    .next-btn {
+        font-size: 16px;
+    }
+    .item-content .item-heading {
+        font-size: 18px;
+    }
+    .fixed-list,
+    .desc-list {
+        font-size: 12px;
+    }
+    .desc-text {
+        font-size: 12px;
+    }
+    .desc-button {
+        font-size: 12px;
+    }
+    .desc-button:hover {
+        font-size: 11px;
+    }
+}
