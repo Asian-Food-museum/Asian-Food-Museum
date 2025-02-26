@@ -336,6 +336,10 @@ a {
         flex-wrap: wrap;
         justify-content: space-between;
     }
+    .nar-option {
+        flex: 1 1 calc(50% - 8px);
+        max-width: 60%;
+    }
 }
 
 @media (max-width: 768px) {
@@ -348,10 +352,6 @@ a {
     .nar-h3 {
         font-size: 18px;
     }
-    .nar-option {
-        flex: 1 1 calc(50% - 8px);
-        max-width: 70%;
-    }
 }
 
 @media (max-width: 600px) {
@@ -360,11 +360,23 @@ a {
         text-align: center;
     }
     .nar-cards {
-        width: 80%;
-        flex-direction: column;
+        width: 100%;
+        flex-wrap: wrap;
     }
     .nar-card {
-        width: 100%;
+        width: 1 1 calc(50% - 8px);
         margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .nar-h1 {
+        font-size: 28px;
+    }
+    .nar-h2 {
+        font-size: 24px;
+    }
+    .nar-btn .nar-h3 {
+        font-size: 16px;
     }
 }
