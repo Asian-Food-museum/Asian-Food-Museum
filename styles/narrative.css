@@ -360,11 +360,11 @@ a {
         text-align: center;
     }
     .nar-cards {
-        width: 100%;
-        flex-wrap: wrap;
+        width: 80%;
+        flex-direction: column;
     }
     .nar-card {
-        width: 1 1 calc(50% - 8px);
+        width: 100%;
         margin-bottom: 20px;
     }
 }
