@@ -6,7 +6,7 @@
             "info": {
                 "Region": "East Asia",
                 "Date": "Ancient (9th Centurry)",
-                "Meal": "Appetizers",
+                "Meal": "Main Course",
                 "Ingredient": "Meat Based",
                 "preparation": "Stewed"
             },
@@ -92,7 +92,7 @@
             "info": {
                 "Region": "West Asia",
                 "Date": "Medieval(13th century)",
-                "Meal": "Appetizers",
+                "Meal": "Appetizer",
                 "Ingredient": "Plant Based",
                 "preparation": "No-Cook"
             },
@@ -148,7 +148,7 @@
             "info": {
                 "Region": "South Asia",
                 "Date": "Medieval(16th century)",
-                "Meal": "Appetizers",
+                "Meal": "Appetizer",
                 "Ingredient": "Plant Based",
                 "preparation": "Fried"
             },
@@ -164,7 +164,7 @@
                 "Date": "Medieval(16th century)",
                 "Meal": "Main Course",
                 "Ingredient": "Meat Based",
-                "preparation": "Grilled"
+                "preparation": "Stewed"
             },
             "shortDesc": "Chicken Biryani is one of Pakistan's most iconic and beloved dishes, known for its aromatic spices, tender chicken, and flavorful basmati rice. A symbol of festive dining, this dish is often served at weddings, family gatherings, and special occasions. With its layers of fragrant rice, succulent chicken, and vibrant spices like saffron and cardamom, Chicken Biryani represents the rich culinary heritage of Pakistan. It is a dish that brings together family and friends, creating an unforgettable dining experience.",
             "longerDesc": "longer-description/16-Pilaf.html",
@@ -204,7 +204,7 @@
             "info": {
                 "Region": "East Asia",
                 "Date": "Medieval(16th century)",
-                "Meal": "Appetizers",
+                "Meal": "Appetizer",
                 "Ingredient": "Meat Based",
                 "preparation": "Fried"
             },
@@ -246,7 +246,7 @@
             "info": {
                 "Region": "East Asia",
                 "Date": "Modern(20th century)",
-                "Meal": "Appetizers",
+                "Meal": "Appetizer",
                 "Ingredient": "Meat Based",
                 "preparation": "No-Cook"
             },
@@ -274,7 +274,7 @@
             "info": {
                 "Region": "East Asia",
                 "Date": "Modern(20th century)",
-                "Meal": "Appetizers",
+                "Meal": "Appetizer",
                 "Ingredient": "Meat Based",
                 "preparation": "Grilled"
             },
