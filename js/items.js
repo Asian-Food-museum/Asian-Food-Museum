@@ -194,7 +194,7 @@ document.addEventListener("DOMContentLoaded", async function() {
 
 //show list of items according to the narrative filter - Ahmadreza
 function regNarrative() {
-    aTag = document.querySelector("#reg-name");
+    const aTag = document.querySelector("#reg-name");
     let text = aTag.textContent.trim();
     if (!text) return;
     let par = text.replace(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/g,
@@ -204,7 +204,7 @@ function regNarrative() {
 };
 
 function dateNarrative() {
-    aTag = document.querySelector("#date-name");
+    const aTag = document.querySelector("#date-name");
     let text = aTag.textContent.trim();
     if (!text) return;
     let par = text.replace(/\b([A-Z][a-z]+).*\(.*/g,
@@ -214,7 +214,7 @@ function dateNarrative() {
 };
 
 function mealNarrative() {
-    aTag = document.querySelector("#meal-name");
+    const aTag = document.querySelector("#meal-name");
     let text = aTag.textContent.trim();
     if (!text) return;
     let par = text.replace(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/g,
@@ -224,7 +224,7 @@ function mealNarrative() {
 };
 
 function ingredNarrative() {
-    aTag = document.querySelector("#ingredient-name")
+    const aTag = document.querySelector("#ingredient-name")
     let text = aTag.textContent.trim();
     let par = text.replace(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/g,
         (_, first, second) => first.toLowerCase() + second
@@ -233,7 +233,7 @@ function ingredNarrative() {
 };
 
 function prepNarrative() {
-    aTag = document.querySelector("#prep-name")
+    const aTag = document.querySelector("#prep-name")
     let text = aTag.textContent.trim();
     let par = text.replace(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/g,
         (_, first, second) => first.toLowerCase() + second
